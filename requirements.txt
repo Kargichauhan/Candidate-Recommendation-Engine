@@ -4,7 +4,7 @@ scikit-learn
 python-docx
 PyPDF2
 tf-keras
-st_aggrid
+streamlit-aggrid
 Pillow
 
 streamlit
